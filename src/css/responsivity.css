@@ -10,12 +10,12 @@
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 471px) {
   .header {
     justify-content: center;
   }
   .xtremeLogo {
-    width: 150px;
+    width: 100px;
     height: auto;
   }
 }
