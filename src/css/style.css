@@ -93,6 +93,7 @@
   border: 2px solid transparent;
   background-color: white;
   border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 1) 0 10px 50px;
   transition: 0.1s;
   cursor: pointer;
 }
